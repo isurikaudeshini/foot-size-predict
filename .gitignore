@@ -35,5 +35,5 @@ terraform.rc
 
 
 
-/ssh_keys
+
  /.terraform
